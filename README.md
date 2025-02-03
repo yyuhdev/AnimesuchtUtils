@@ -2,8 +2,6 @@
 
 **AnimeSuchtUtils** ist ein Minecraft-Mod, welche dir verschiendenste Vorteile auf Animesucht.com bietet. 
 
----
-
 ## Funktionen
 
 ### 1. **Truhen-Suche**
@@ -14,8 +12,6 @@
    - **Rote Verzauberungen**: Hebt Gegenstände mit mythischen, rot gefärbten Verzauberungen hervor.
    - **Pinke Verzauberungen**: Hebt Gegenstände mit speziellen, pink gefärbten Verzauberungen hervor.
    - Beide Module lassen sich jederzeit aktivieren und deaktivieren.
-
----
 
 ## Installation
 
@@ -29,8 +25,6 @@
    - Lege die `.jar`-Datei in deinen `mods`-Ordner.
    - Starte Minecraft mit dem Fabric Loader.
 
----
-
 ## Verwendung
 
 ### Ingame-Oberfläche
@@ -39,7 +33,6 @@
 - **Zurücksetzen-Button**: Leert die Suchleiste.
 - **Hervorhebungs-Buttons**: Aktiviere oder deaktiviere die Hervorhebung für rote und pinke Verzauberungen.
 
----
 
 ## Mitwirken
 
@@ -48,25 +41,21 @@ Contributions sind willkommen! Wenn du zur Entwicklung dieses Mods beitragen mö
 2. Erstelle einen neuen Branch für dein Feature oder Bugfix.
 3. Reiche einen Pull Request mit einer detaillierten Beschreibung deiner Änderungen ein.
 
----
 
 ### Nachwort
 
 Diese Mod ist noch lange nicht fertig und steht unter Development.
 
----
 
 ## Coming Soon
 
 - Filtern nach göttlichen Verzauberungen
 
----
 
 ## Lizenz
 
 Dieser Mod ist unter der **MIT-Lizenz** lizenziert. Du kannst ihn gemäß den Lizenzbedingungen verwenden, modifizieren und weiterverteilen.
 
----
 
 ## Support
 
