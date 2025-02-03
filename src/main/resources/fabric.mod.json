@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "animesuchtutils",
+  "version": "${version}",
+  "name": "AnimesuchtUtils",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/animesuchtutils/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.yyuh.animesuchtutils.client.AnimesuchtUtilsClient"
+    ],
+    "main": [
+      "dev.yyuh.animesuchtutils.Animesuchtutils"
+    ]
+  },
+  "mixins": [
+    "animesuchtutils.mixins.json",
+    {
+      "config": "animesuchtutils.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
